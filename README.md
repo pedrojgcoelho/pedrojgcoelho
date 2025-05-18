@@ -4,8 +4,7 @@ Eu sou o Pedro Coelho
 Sou estudante de Engenharia de Software
 
 - 🌱 I’m currently learning: python, javascript, java, react and kotlin
-- 💬 Ask me about python
-- 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/pedrojgcoelho">
